@@ -9,6 +9,13 @@ body {
   color: #fafafa;
   font-family: "Source Code Pro", monospace;
   text-align: center;
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+::-webkit-scrollbar {
+  -webkit-appearance: none;
+  display: none;
 }
 
 h1 {
