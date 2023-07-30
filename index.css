@@ -12,6 +12,15 @@ body {
   -ms-overflow-style: none;
   scrollbar-width: none;
 }
+div {
+  height: 30vh;
+  width: 50vw;
+  display: flex;
+  /* flex-direction: row; */
+  align-items: center;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
 
 ::-webkit-scrollbar {
   -webkit-appearance: none;
@@ -26,6 +35,7 @@ h1 {
 a {
   color: #fafafa;
   font-size: 3vh;
+  padding: 1vh;
 }
 a:link {
   text-decoration: none;
