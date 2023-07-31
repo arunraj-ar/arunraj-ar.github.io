@@ -13,7 +13,7 @@ body {
   scrollbar-width: none;
 }
 .socials {
-  height: 30vh;
+  height: 20vh;
   width: 70vw;
   display: flex;
   align-items: center;
@@ -31,7 +31,7 @@ body {
 }
 
 h1 {
-  font-size: 10vh;
+  font-size: 7vh;
   margin: 2vh;
 }
 
@@ -39,13 +39,13 @@ p {
   color: #fafafa;
   text-align: left;
   font-size: 2vh;
-  line-height: 4vh;
+  line-height: 3vh;
   padding: 1vh;
 }
 
 a {
   color: #fafafa;
-  font-size: 3vh;
+  font-size: 2.5vh;
   padding: 1vh;
 }
 a:link {
